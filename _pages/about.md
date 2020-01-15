@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Developing Computational Methods for Protein Design"
+title: "JAMES LUCAS"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
