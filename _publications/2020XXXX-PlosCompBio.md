@@ -3,7 +3,7 @@ title: "New Protein Design Methods for De Novo Small Molecule Binding Sites"
 collection: publications
 permalink: /publication/2020XXXX-PlosCompBio
 excerpt: 'Leveraging the PDB to inform de novo small molecule binding site design'
-date: 2020
+date: 2020-01-01
 venue: 'In Preparation'
 paperurl: 
 citation: 
