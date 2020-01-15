@@ -1,6 +1,6 @@
 ---
-title: "DNAssembly Plasmid Database"
-excerpt: "An organized database for plasmids and strains"
+title: "DNAssembly Modular Cloning Plasmid Database"
+excerpt: "Web interface to automate high-throughput assembly, annotation, and tracking of modular cloning plasmids"
 collection: portfolio
 ---
 

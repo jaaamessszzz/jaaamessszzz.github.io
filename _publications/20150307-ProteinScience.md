@@ -2,7 +2,7 @@
 title: "Quantitative functional characterization of conserved molecular interactions in the active site of mannitol 2‐dehydrogenase"
 collection: publications
 permalink: /publication/20150307-ProteinScience
-excerpt: 'Experimentally determining the contributions of active site residues toward catalysis'
+excerpt: 'Experimentally determined the contributions of active site residues toward catalysis'
 date: 2015-03-07
 venue: 'Protein Science'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/pro.2669'
