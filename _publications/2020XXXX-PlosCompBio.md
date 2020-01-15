@@ -21,7 +21,7 @@ various scaffold proteins for several target molecules. Our generalizable de nov
 will lay the foundation for versatile design of protein to interface previously unattainable molecules for applications 
 in medical diagnostics and synthetic biology.
 
-<img src="images/Figure_1.png" width="50%">
+![Figure 1]({{base_path}}/images/Figure_1.png ){:width="50%"}
 
 A. Target small molecules such as ibuprofen can be decomposed into distinct chemical moieties (highlighted red, orange, 
 and blue), or fragments, that are present as a substructure in a wide range of molecules bound to proteins in the PDB. 
