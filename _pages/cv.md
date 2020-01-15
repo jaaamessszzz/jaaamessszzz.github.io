@@ -55,7 +55,7 @@ Development, Enzyme Kinetic Assays, Yeast and *E. coli*
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -67,6 +67,6 @@ Talks
   
 Service and leadership
 ======
-Member, Faculty Search - Student Committee, UC Berkeley, January 2018 – March 2018
-	Interviewed and evaluated faculty candidates for the Department of Bioengineering at UC Berkeley.
+* **01/2018 – 03/2018.** Member, Faculty Search - Student Committee, UC Berkeley
+	* Interviewed and evaluated faculty candidates for the Department of Bioengineering at UC Berkeley
 
