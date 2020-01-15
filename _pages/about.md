@@ -10,8 +10,16 @@ redirect_from:
 
 I am a fifth-year graduate student in the UC Berkeley/UCSF Graduate Program in Bioengineering. I performed my 
 dissertation research in the lab of Tanja Kortemme at UCSF where I worked with the Rosetta Macromolecular Modeling Suite
-to develop computational methods for de novo design of small molecule binding sites in proteins. 
+to develop computational methods for de novo design of small molecule binding sites in proteins.
+I have a solid foundation in both the experimental and computational aspects of protein modeling and design, where my 
+primary research interests have been the rational design of proteins to solve problems in the realm of synthetic 
+biology. To this end, I have worked extensively with the Rosetta code base and learned several experimental techniques
+to probe the function of proteins in a high-throughput manner. Recently, I have started to learn and develop machine 
+learning techniques applied to protein design.
 
-I have a solid foundation in both the experimental and computational aspects of protein modeling and design. Check out 
-my [publications]({% link _pages/publications.md %}) and [projects]({% link _pages/portfolio.html %}) to learn more 
-about my work!
+I also enjoy developing personal projects to help automate lab tasks and facilitate learning through innovative teaching 
+tools. There isn't nearly enough communication between experimentalist and computationalists, and I am doing my best
+to bridge the gap.
+
+Check out my [publications]({% link _pages/publications.md %}) and [projects]({% link _pages/portfolio.html %}) to learn
+more about my work!
