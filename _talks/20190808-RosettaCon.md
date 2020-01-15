@@ -10,4 +10,3 @@ location: "Leavenworth, Washington"
 
 I present my work developing a new method to build small molecule binding sites from scratch. I applied my method to 
 introduce binding sites into protein-protein interfaces to create new chemically-induced dimerization systems.
-_
