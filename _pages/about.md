@@ -11,6 +11,8 @@ redirect_from:
 Developing Computational Methods for Protein Design
 =====
 
+![Fuzzball]({{ site.baseurl }}{% link /images/Fuzzball.png %})
+
 I am a fifth-year graduate student in the UC Berkeley/UCSF Graduate Program in Bioengineering. I performed my 
 dissertation research in the lab of Tanja Kortemme at UCSF where I worked with the Rosetta Macromolecular Modeling Suite
 to develop computational methods for de novo design of small molecule binding sites in proteins.
