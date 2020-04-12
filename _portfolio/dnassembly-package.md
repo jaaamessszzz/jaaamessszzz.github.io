@@ -12,5 +12,5 @@ cloning methods. DNAssembly works with GenBank files and keeps track of features
 This package was developed initially to accommodate the [Dueber Lab](https://dueberlab.berkeley.edu/) 
 [Yeast TookKit](https://pubs.acs.org/doi/10.1021/sb500366v) cloning system.
 
-Check out the repository [here](https://github.com/jaaamessszzz/dnassembly)! 
-(Note: this repository may still be private, it's a work in progress)
+Check out the Github repository [here](https://github.com/jaaamessszzz/dnassembly)! 
+DNAssembly is also now on [PyPI](https://pypi.org/project/dnassembly/)!
