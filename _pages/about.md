@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "Developing Computational Methods for Protein Design"
+title: "JAMES LUCAS"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Developing Computational Methods for Protein Design
+=====
 
 I am currently a Research Scientist at Nautilus Biotechnology in San Carlos, CA. 
 
