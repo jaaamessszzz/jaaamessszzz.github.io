@@ -11,7 +11,7 @@ redirect_from:
 Developing Computational Methods for Protein Design
 =====
 
-I am currently a Research Scientist at Nautilus Biotechnology in San Carlos, CA. 
+I am currently a Protein Design Research Scientist at [Nautilus Biotechnology](https://www.nautilus.bio/). 
 
 I completed my PhD through the UC Berkeley/UCSF Graduate Program in Bioengineering, where I performed my 
 dissertation research in the lab of Tanja Kortemme. I primarily worked with the Rosetta Macromolecular Modeling Suite

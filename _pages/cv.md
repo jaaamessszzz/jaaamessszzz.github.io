@@ -18,7 +18,8 @@ Education
 
 Work experience
 ======
-* **04/2016 – Present.** Graduate Student Researcher, Tanja Kortemme Lab, UCSF
+* **04/2020 – Present.** Research Scientist, Protein Design; Nautilus Biotechnology
+* **04/2016 – 03/2020.** Graduate Student Researcher, Tanja Kortemme Lab, UCSF
     * Developed (Py)Rosetta to implement an innovative strategy to assemble thousands of possible protein binding sites 
     for arbitrary small molecules de novo as part of my dissertation research
     * Designed and screened libraries of small-molecule responsive sgRNAs using FACS and characterized hits using flow 
