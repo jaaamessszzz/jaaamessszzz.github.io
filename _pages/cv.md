@@ -46,12 +46,30 @@ Selected Fellowships and Awards
 
 Skills
 ======
-**Database and Programming Languages.** Python, C++, JavaScript, MySQL, PostgresQL
 
-**Software and Frameworks.** Rosetta, GitHub, Jupyter, SGE, Gurobi, RDKit, Avogadro, OpenEye Omega, ProDY
+<h3>COMPUTATIONAL</h3>
 
-**Experimental.** FACS, Flow Cytometry, Protein Expression & Purification, Molecular Cloning, Plate Reader Assay 
-Development, Enzyme Kinetic Assays, Yeast and *E. coli*
+**Programming.** Python, C++, JavaScript, Docker, GitHub, Jupyter,LATEX
+
+**Software.** Rosetta Macromolecular Modeling Suite, Avogadro, OpenEye Omega, RDKit, ProDy, Gurobi, Graphviz
+
+**Full Stack.** Amazon Web Services (Elastic Beanstalk), Django, jQuery, MySQL, PostgreSQL, SQLite3, HTML, CSS
+
+**NGS.** bcl2fastq, CutAdapt, Jellyfish
+
+**HPC.** Amazon Web Services (Batch, EC2), Sun Grid Engine
+
+<h3>EXPERIMENTAL</h3>
+
+**Engineering.** Phage Display and Panning, Fluorescence-Activated Cell Sorting (FACS)
+
+**Characterization.** Protein Expression and Purification, Flow Cytometry, ELISA, Enzyme Kinetics, Plate Reader Assays
+
+**DNA Assembly.** Golden Gate, Gibson, HiFi, Restriction/Ligation, SOE PCR, Kunkel Mutagenesis
+
+**Molecular Biology.** PCR, Gel Electrophoresis, SDS-Page, Western Blot
+
+**Model Systems.** E. coli,S. cerevisiae
 
 
 Publications

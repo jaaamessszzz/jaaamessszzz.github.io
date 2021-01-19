@@ -1,12 +1,13 @@
 ---
 title: "New Protein Design Methods for De Novo Small Molecule Binding Sites"
 collection: publications
-permalink: /publication/2020XXXX-PlosCompBio
+permalink: /publication/20201005-PlosCompBio
 excerpt: 'Leveraging the PDB to inform de novo small molecule binding site design'
-date: 2020-01-01
-venue: 'In Preparation'
-paperurl: 
-citation: 
+date: 2020-10-05
+venue: 'PLoS Computational Biology'
+paperurl:  https://doi.org/10.1371/journal.pcbi.1008178
+citation: 'Lucas JE, Kortemme T (2020) New computational protein design methods for de novo small molecule binding sites. 
+PLOS Computational Biology 16(10): e1008178. https://doi.org/10.1371/journal.pcbi.1008178'
 ---
 Protein binding to small molecules is fundamental to many biological processes, yet current state-of-the-art methods are
 unable to predictively design this functionality de novo. In lieu of existing design methods that rely on existing 

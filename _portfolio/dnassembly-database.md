@@ -11,7 +11,4 @@ planned and assembled all at once, and features and attributes are automatically
 Every plasmid has it's own page where files (e.g. sequencing) and comments can be stored. Plasmids can be downloaded
 as Genbank files from the database.
 
-Check out the live project [here](https://cloningwebapp.com)!
-
-Check out the repository [here](https://github.com/jaaamessszzz/Django-Plasmid-Database)! 
-(Note: this repository may still be private, it's a work in progress)
+Check out the repository [here](https://github.com/jaaamessszzz/PlasmidWebApp)!
