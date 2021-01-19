@@ -49,7 +49,7 @@ Skills
 
 <h3>COMPUTATIONAL</h3>
 
-**Programming.** Python, C++, JavaScript, Docker, GitHub, Jupyter,LATEX
+**Programming.** Python, C++, JavaScript, Docker, GitHub, Jupyter, LATEX
 
 **Software.** Rosetta Macromolecular Modeling Suite, Avogadro, OpenEye Omega, RDKit, ProDy, Gurobi, Graphviz
 
@@ -69,7 +69,7 @@ Skills
 
 **Molecular Biology.** PCR, Gel Electrophoresis, SDS-Page, Western Blot
 
-**Model Systems.** E. coli,S. cerevisiae
+**Model Systems.** *E. coli*, *S. cerevisiae*
 
 
 Publications
